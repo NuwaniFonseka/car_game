@@ -81,7 +81,7 @@ class SettingsActivity : AppCompatActivity() {
         notifySoundStateChanged(soundsSwitch.isChecked)
     }
 
-    // sends a local broadcast to notifyyyyy
+    // sends a local broadcast to notifyy
     // other components about the change in sound state.
     private fun notifySoundStateChanged(isSoundOn: Boolean) {
         val intent = Intent("com.littlelemon.cargame.SOUND_STATE_CHANGED")
