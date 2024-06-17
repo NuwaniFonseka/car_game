@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CarGame</string>
+    <string name="title_activity_get_started">GetStartedActivity</string>
+    <string name="score"></string>
+    <string name="startBtn">StartGame</string>
+    <string name="settingsbtn">Settings</string>savebtn
+    <string name="savebtn">SAVE</string>
+    <string name="scoreboardbtn">Scoreboard</string>
+
+</resources>
