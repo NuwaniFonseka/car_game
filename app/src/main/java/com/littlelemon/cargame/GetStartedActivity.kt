@@ -89,6 +89,6 @@ class GetStartedActivity : AppCompatActivity(), GameTask {
             editor.putInt("third_highest", score)
         }
 
-        editor.apply() //commits changes to shared preferences
+        editor.apply() //commits changes to shared preferences.
     }
 }
